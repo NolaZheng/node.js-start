@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "node.js start",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NolaZheng/node.js-start.git"
+  },
+  "author": "Nola Zheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NolaZheng/node.js-start/issues"
+  },
+  "homepage": "https://github.com/NolaZheng/node.js-start#readme",
+  "dependencies": {
+    "slugify": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
